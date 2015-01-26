@@ -15,7 +15,8 @@ Github Installation
 ::
 
     git clone https://github.com/fajarhide/search.git
-    sh search/install.sh
+    cd search/
+    sh install.sh
 
 
 Just download (Like the way it used to be)
@@ -48,4 +49,15 @@ Exit
 ----
 
 CTRL + Z
+
+
+Github Uninstallation
+---------------------
+
+If you want to uninstall tools search from your Linux
+
+::
+    cd /usr/local/search/
+    sh uninstall.sh
+
 
