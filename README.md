@@ -14,8 +14,7 @@ Github Installation
 
 ::
 
-    git clone https://github.com/fajarhide/search.git
-    cd search/
+    wget -q -O install.sh https://raw.githubusercontent.com/fajarhide/search/master/install.sh
     sh install.sh
 
 
