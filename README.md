@@ -57,7 +57,6 @@ If you want to uninstall tools search from your Linux
 
 ::
 
-    cd /usr/local/search/
-    sh uninstall.sh
+    sh /usr/local/search/uninstall.sh
 
 
